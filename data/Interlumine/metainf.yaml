@@ -1,0 +1,58 @@
+kind: music.album
+name: Interlumine
+artist: Haruka
+year: 2019
+genres:
+  - nr: 52
+    name: Electronic
+  - nr: 26
+    name: Ambient
+  - name: Cinematic
+artwork: /Interlumine.png
+platforms:
+  - site: SoundCloud
+  - url: https://soundcloud.com/haruka-sato-482007257/sets/interlumine
+items:
+  - name: Nonchalant Thunder
+    comp: Haruka feat. Jukedeck
+    artist: Haruka
+    year: 2019
+    length: 80053
+    track:
+      nr: 1
+      in: 3
+    src:
+      - on: /Nonchalant_Thunder.mp3
+        type: audio/mpeg
+    platforms:
+      - site: SoundCloud
+      - url: https://soundcloud.com/haruka-sato-482007257/nonchalant_thunder?in=haruka-sato-482007257/sets/interlumine
+  - name: Our First Musings
+    comp: Haruka feat. Jukedeck
+    artist: Haruka
+    year: 2019
+    length: 80053
+    track:
+      nr: 2
+      in: 3
+    src:
+      - on: /Our_First_Musings.mp3
+        type: audio/mpeg
+    platforms:
+      - site: SoundCloud
+      - url: https://soundcloud.com/haruka-sato-482007257/our_furst_musings?in=haruka-sato-482007257/sets/interlumine
+  - name: Outrageous Abandon
+    comp: Haruka feat. Jukedeck
+    artist: Haruka
+    year: 2019
+    length: 80053
+    track:
+      nr: 3
+      in: 3
+    src:
+      - on: /Outrageous_Abandon.mp3
+        type: audio/mpeg
+    platforms:
+      - site: SoundCloud
+      - url: https://soundcloud.com/haruka-sato-482007257/outrageous_abandon?in=haruka-sato-482007257/sets/interlumine
+license: "Creative Commons BY SA 4.0 international"
